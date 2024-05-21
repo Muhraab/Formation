@@ -1,0 +1,238 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\agmlu\\OneDrive - Aller\u00F8d Gymnasium\\Informatik\\Grundl\u00E6ggende Objektorienteret Programmering\\Projekter\\Formation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FFEA61F4-4DB3-4804-BDE5-39023C5F1227}|Formation.Backend\\Formation.Backend.csproj|c:\\users\\agmlu\\onedrive - aller\u00F8d gymnasium\\informatik\\grundl\u00E6ggende objektorienteret programmering\\projekter\\formation\\formation.backend\\gamestates\\endgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFEA61F4-4DB3-4804-BDE5-39023C5F1227}|Formation.Backend\\Formation.Backend.csproj|solutionrelative:formation.backend\\gamestates\\endgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFEA61F4-4DB3-4804-BDE5-39023C5F1227}|Formation.Backend\\Formation.Backend.csproj|c:\\users\\agmlu\\onedrive - aller\u00F8d gymnasium\\informatik\\grundl\u00E6ggende objektorienteret programmering\\projekter\\formation\\formation.backend\\gamestates\\playerturn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFEA61F4-4DB3-4804-BDE5-39023C5F1227}|Formation.Backend\\Formation.Backend.csproj|solutionrelative:formation.backend\\gamestates\\playerturn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFEA61F4-4DB3-4804-BDE5-39023C5F1227}|Formation.Backend\\Formation.Backend.csproj|c:\\users\\agmlu\\onedrive - aller\u00F8d gymnasium\\informatik\\grundl\u00E6ggende objektorienteret programmering\\projekter\\formation\\formation.backend\\board\\score.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFEA61F4-4DB3-4804-BDE5-39023C5F1227}|Formation.Backend\\Formation.Backend.csproj|solutionrelative:formation.backend\\board\\score.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFEA61F4-4DB3-4804-BDE5-39023C5F1227}|Formation.Backend\\Formation.Backend.csproj|c:\\users\\agmlu\\onedrive - aller\u00F8d gymnasium\\informatik\\grundl\u00E6ggende objektorienteret programmering\\projekter\\formation\\formation.backend\\actions\\plustwoaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFEA61F4-4DB3-4804-BDE5-39023C5F1227}|Formation.Backend\\Formation.Backend.csproj|solutionrelative:formation.backend\\actions\\plustwoaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFEA61F4-4DB3-4804-BDE5-39023C5F1227}|Formation.Backend\\Formation.Backend.csproj|c:\\users\\agmlu\\onedrive - aller\u00F8d gymnasium\\informatik\\grundl\u00E6ggende objektorienteret programmering\\projekter\\formation\\formation.backend\\actions\\actionid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFEA61F4-4DB3-4804-BDE5-39023C5F1227}|Formation.Backend\\Formation.Backend.csproj|solutionrelative:formation.backend\\actions\\actionid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFEA61F4-4DB3-4804-BDE5-39023C5F1227}|Formation.Backend\\Formation.Backend.csproj|c:\\users\\agmlu\\onedrive - aller\u00F8d gymnasium\\informatik\\grundl\u00E6ggende objektorienteret programmering\\projekter\\formation\\formation.backend\\actions\\rokadeaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFEA61F4-4DB3-4804-BDE5-39023C5F1227}|Formation.Backend\\Formation.Backend.csproj|solutionrelative:formation.backend\\actions\\rokadeaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFEA61F4-4DB3-4804-BDE5-39023C5F1227}|Formation.Backend\\Formation.Backend.csproj|c:\\users\\agmlu\\onedrive - aller\u00F8d gymnasium\\informatik\\grundl\u00E6ggende objektorienteret programmering\\projekter\\formation\\formation.backend\\actions\\splitaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFEA61F4-4DB3-4804-BDE5-39023C5F1227}|Formation.Backend\\Formation.Backend.csproj|solutionrelative:formation.backend\\actions\\splitaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFEA61F4-4DB3-4804-BDE5-39023C5F1227}|Formation.Backend\\Formation.Backend.csproj|c:\\users\\agmlu\\onedrive - aller\u00F8d gymnasium\\informatik\\grundl\u00E6ggende objektorienteret programmering\\projekter\\formation\\formation.backend\\actions\\fouraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFEA61F4-4DB3-4804-BDE5-39023C5F1227}|Formation.Backend\\Formation.Backend.csproj|solutionrelative:formation.backend\\actions\\fouraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFEA61F4-4DB3-4804-BDE5-39023C5F1227}|Formation.Backend\\Formation.Backend.csproj|c:\\users\\agmlu\\onedrive - aller\u00F8d gymnasium\\informatik\\grundl\u00E6ggende objektorienteret programmering\\projekter\\formation\\formation.backend\\actions\\abstractaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFEA61F4-4DB3-4804-BDE5-39023C5F1227}|Formation.Backend\\Formation.Backend.csproj|solutionrelative:formation.backend\\actions\\abstractaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFEA61F4-4DB3-4804-BDE5-39023C5F1227}|Formation.Backend\\Formation.Backend.csproj|c:\\users\\agmlu\\onedrive - aller\u00F8d gymnasium\\informatik\\grundl\u00E6ggende objektorienteret programmering\\projekter\\formation\\formation.backend\\gamestates\\state.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFEA61F4-4DB3-4804-BDE5-39023C5F1227}|Formation.Backend\\Formation.Backend.csproj|solutionrelative:formation.backend\\gamestates\\state.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFEA61F4-4DB3-4804-BDE5-39023C5F1227}|Formation.Backend\\Formation.Backend.csproj|c:\\users\\agmlu\\onedrive - aller\u00F8d gymnasium\\informatik\\grundl\u00E6ggende objektorienteret programmering\\projekter\\formation\\formation.backend\\actions\\moveaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFEA61F4-4DB3-4804-BDE5-39023C5F1227}|Formation.Backend\\Formation.Backend.csproj|solutionrelative:formation.backend\\actions\\moveaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFEA61F4-4DB3-4804-BDE5-39023C5F1227}|Formation.Backend\\Formation.Backend.csproj|c:\\users\\agmlu\\onedrive - aller\u00F8d gymnasium\\informatik\\grundl\u00E6ggende objektorienteret programmering\\projekter\\formation\\formation.backend\\actions\\deleteaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFEA61F4-4DB3-4804-BDE5-39023C5F1227}|Formation.Backend\\Formation.Backend.csproj|solutionrelative:formation.backend\\actions\\deleteaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFEA61F4-4DB3-4804-BDE5-39023C5F1227}|Formation.Backend\\Formation.Backend.csproj|c:\\users\\agmlu\\onedrive - aller\u00F8d gymnasium\\informatik\\grundl\u00E6ggende objektorienteret programmering\\projekter\\formation\\formation.backend\\actions\\betrayaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFEA61F4-4DB3-4804-BDE5-39023C5F1227}|Formation.Backend\\Formation.Backend.csproj|solutionrelative:formation.backend\\actions\\betrayaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EndGame.cs",
+              "DocumentMoniker": "C:\\Users\\agmlu\\OneDrive - Aller\u00F8d Gymnasium\\Informatik\\Grundl\u00E6ggende Objektorienteret Programmering\\Projekter\\Formation\\Formation.Backend\\GameStates\\EndGame.cs",
+              "RelativeDocumentMoniker": "Formation.Backend\\GameStates\\EndGame.cs",
+              "ToolTip": "C:\\Users\\agmlu\\OneDrive - Aller\u00F8d Gymnasium\\Informatik\\Grundl\u00E6ggende Objektorienteret Programmering\\Projekter\\Formation\\Formation.Backend\\GameStates\\EndGame.cs",
+              "RelativeToolTip": "Formation.Backend\\GameStates\\EndGame.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAUwA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T20:34:05.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Score.cs",
+              "DocumentMoniker": "C:\\Users\\agmlu\\OneDrive - Aller\u00F8d Gymnasium\\Informatik\\Grundl\u00E6ggende Objektorienteret Programmering\\Projekter\\Formation\\Formation.Backend\\Board\\Score.cs",
+              "RelativeDocumentMoniker": "Formation.Backend\\Board\\Score.cs",
+              "ToolTip": "C:\\Users\\agmlu\\OneDrive - Aller\u00F8d Gymnasium\\Informatik\\Grundl\u00E6ggende Objektorienteret Programmering\\Projekter\\Formation\\Formation.Backend\\Board\\Score.cs",
+              "RelativeToolTip": "Formation.Backend\\Board\\Score.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAcwDQAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T20:22:10.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ActionId.cs",
+              "DocumentMoniker": "C:\\Users\\agmlu\\OneDrive - Aller\u00F8d Gymnasium\\Informatik\\Grundl\u00E6ggende Objektorienteret Programmering\\Projekter\\Formation\\Formation.Backend\\Actions\\ActionId.cs",
+              "RelativeDocumentMoniker": "Formation.Backend\\Actions\\ActionId.cs",
+              "ToolTip": "C:\\Users\\agmlu\\OneDrive - Aller\u00F8d Gymnasium\\Informatik\\Grundl\u00E6ggende Objektorienteret Programmering\\Projekter\\Formation\\Formation.Backend\\Actions\\ActionId.cs",
+              "RelativeToolTip": "Formation.Backend\\Actions\\ActionId.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T10:16:31.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PlayerTurn.cs",
+              "DocumentMoniker": "C:\\Users\\agmlu\\OneDrive - Aller\u00F8d Gymnasium\\Informatik\\Grundl\u00E6ggende Objektorienteret Programmering\\Projekter\\Formation\\Formation.Backend\\GameStates\\PlayerTurn.cs",
+              "RelativeDocumentMoniker": "Formation.Backend\\GameStates\\PlayerTurn.cs",
+              "ToolTip": "C:\\Users\\agmlu\\OneDrive - Aller\u00F8d Gymnasium\\Informatik\\Grundl\u00E6ggende Objektorienteret Programmering\\Projekter\\Formation\\Formation.Backend\\GameStates\\PlayerTurn.cs",
+              "RelativeToolTip": "Formation.Backend\\GameStates\\PlayerTurn.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T13:05:30.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SplitAction.cs",
+              "DocumentMoniker": "C:\\Users\\agmlu\\OneDrive - Aller\u00F8d Gymnasium\\Informatik\\Grundl\u00E6ggende Objektorienteret Programmering\\Projekter\\Formation\\Formation.Backend\\Actions\\SplitAction.cs",
+              "RelativeDocumentMoniker": "Formation.Backend\\Actions\\SplitAction.cs",
+              "ToolTip": "C:\\Users\\agmlu\\OneDrive - Aller\u00F8d Gymnasium\\Informatik\\Grundl\u00E6ggende Objektorienteret Programmering\\Projekter\\Formation\\Formation.Backend\\Actions\\SplitAction.cs",
+              "RelativeToolTip": "Formation.Backend\\Actions\\SplitAction.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T12:41:22.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PlusTwoAction.cs",
+              "DocumentMoniker": "C:\\Users\\agmlu\\OneDrive - Aller\u00F8d Gymnasium\\Informatik\\Grundl\u00E6ggende Objektorienteret Programmering\\Projekter\\Formation\\Formation.Backend\\Actions\\PlusTwoAction.cs",
+              "RelativeDocumentMoniker": "Formation.Backend\\Actions\\PlusTwoAction.cs",
+              "ToolTip": "C:\\Users\\agmlu\\OneDrive - Aller\u00F8d Gymnasium\\Informatik\\Grundl\u00E6ggende Objektorienteret Programmering\\Projekter\\Formation\\Formation.Backend\\Actions\\PlusTwoAction.cs",
+              "RelativeToolTip": "Formation.Backend\\Actions\\PlusTwoAction.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAswBgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T12:41:16.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RokadeAction.cs",
+              "DocumentMoniker": "C:\\Users\\agmlu\\OneDrive - Aller\u00F8d Gymnasium\\Informatik\\Grundl\u00E6ggende Objektorienteret Programmering\\Projekter\\Formation\\Formation.Backend\\Actions\\RokadeAction.cs",
+              "RelativeDocumentMoniker": "Formation.Backend\\Actions\\RokadeAction.cs",
+              "ToolTip": "C:\\Users\\agmlu\\OneDrive - Aller\u00F8d Gymnasium\\Informatik\\Grundl\u00E6ggende Objektorienteret Programmering\\Projekter\\Formation\\Formation.Backend\\Actions\\RokadeAction.cs",
+              "RelativeToolTip": "Formation.Backend\\Actions\\RokadeAction.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T12:41:09.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MoveAction.cs",
+              "DocumentMoniker": "C:\\Users\\agmlu\\OneDrive - Aller\u00F8d Gymnasium\\Informatik\\Grundl\u00E6ggende Objektorienteret Programmering\\Projekter\\Formation\\Formation.Backend\\Actions\\MoveAction.cs",
+              "RelativeDocumentMoniker": "Formation.Backend\\Actions\\MoveAction.cs",
+              "ToolTip": "C:\\Users\\agmlu\\OneDrive - Aller\u00F8d Gymnasium\\Informatik\\Grundl\u00E6ggende Objektorienteret Programmering\\Projekter\\Formation\\Formation.Backend\\Actions\\MoveAction.cs",
+              "RelativeToolTip": "Formation.Backend\\Actions\\MoveAction.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwA8AAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T12:41:02.731Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FourAction.cs",
+              "DocumentMoniker": "C:\\Users\\agmlu\\OneDrive - Aller\u00F8d Gymnasium\\Informatik\\Grundl\u00E6ggende Objektorienteret Programmering\\Projekter\\Formation\\Formation.Backend\\Actions\\FourAction.cs",
+              "RelativeDocumentMoniker": "Formation.Backend\\Actions\\FourAction.cs",
+              "ToolTip": "C:\\Users\\agmlu\\OneDrive - Aller\u00F8d Gymnasium\\Informatik\\Grundl\u00E6ggende Objektorienteret Programmering\\Projekter\\Formation\\Formation.Backend\\Actions\\FourAction.cs",
+              "RelativeToolTip": "Formation.Backend\\Actions\\FourAction.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAjwA0AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T12:40:54.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DeleteAction.cs",
+              "DocumentMoniker": "C:\\Users\\agmlu\\OneDrive - Aller\u00F8d Gymnasium\\Informatik\\Grundl\u00E6ggende Objektorienteret Programmering\\Projekter\\Formation\\Formation.Backend\\Actions\\DeleteAction.cs",
+              "RelativeDocumentMoniker": "Formation.Backend\\Actions\\DeleteAction.cs",
+              "ToolTip": "C:\\Users\\agmlu\\OneDrive - Aller\u00F8d Gymnasium\\Informatik\\Grundl\u00E6ggende Objektorienteret Programmering\\Projekter\\Formation\\Formation.Backend\\Actions\\DeleteAction.cs",
+              "RelativeToolTip": "Formation.Backend\\Actions\\DeleteAction.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAA3wBIAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T12:40:47.397Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BetrayAction.cs",
+              "DocumentMoniker": "C:\\Users\\agmlu\\OneDrive - Aller\u00F8d Gymnasium\\Informatik\\Grundl\u00E6ggende Objektorienteret Programmering\\Projekter\\Formation\\Formation.Backend\\Actions\\BetrayAction.cs",
+              "RelativeDocumentMoniker": "Formation.Backend\\Actions\\BetrayAction.cs",
+              "ToolTip": "C:\\Users\\agmlu\\OneDrive - Aller\u00F8d Gymnasium\\Informatik\\Grundl\u00E6ggende Objektorienteret Programmering\\Projekter\\Formation\\Formation.Backend\\Actions\\BetrayAction.cs",
+              "RelativeToolTip": "Formation.Backend\\Actions\\BetrayAction.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAA3wA8AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T12:40:28.594Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AbstractAction.cs",
+              "DocumentMoniker": "C:\\Users\\agmlu\\OneDrive - Aller\u00F8d Gymnasium\\Informatik\\Grundl\u00E6ggende Objektorienteret Programmering\\Projekter\\Formation\\Formation.Backend\\Actions\\AbstractAction.cs",
+              "RelativeDocumentMoniker": "Formation.Backend\\Actions\\AbstractAction.cs",
+              "ToolTip": "C:\\Users\\agmlu\\OneDrive - Aller\u00F8d Gymnasium\\Informatik\\Grundl\u00E6ggende Objektorienteret Programmering\\Projekter\\Formation\\Formation.Backend\\Actions\\AbstractAction.cs",
+              "RelativeToolTip": "Formation.Backend\\Actions\\AbstractAction.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAnwA0AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T11:43:26.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "State.cs",
+              "DocumentMoniker": "C:\\Users\\agmlu\\OneDrive - Aller\u00F8d Gymnasium\\Informatik\\Grundl\u00E6ggende Objektorienteret Programmering\\Projekter\\Formation\\Formation.Backend\\GameStates\\State.cs",
+              "RelativeDocumentMoniker": "Formation.Backend\\GameStates\\State.cs",
+              "ToolTip": "C:\\Users\\agmlu\\OneDrive - Aller\u00F8d Gymnasium\\Informatik\\Grundl\u00E6ggende Objektorienteret Programmering\\Projekter\\Formation\\Formation.Backend\\GameStates\\State.cs",
+              "RelativeToolTip": "Formation.Backend\\GameStates\\State.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T11:36:29.789Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
